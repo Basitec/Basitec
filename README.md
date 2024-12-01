@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Basitec
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently in my learning stage
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? You can reach me on instagram @abdulbaasit2008
 
